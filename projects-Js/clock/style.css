@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins;
+}
+body {
+  margin-top: 40px;
+  background: rgb(32, 32, 37);
+  text-align: center;
+  color: white;
+}
+section {
+  color: black;
+  background-color: white;
+  width: 40%;
+  margin: 10px auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+  padding: 15px;
+}
+.horas {
+  font-family: roboto;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 150px;
+  background-color: rgba(128, 128, 128, 0.274);
+  font-weight: 800;
+}
+.mudar {
+  font-size: 25px;
+  font-weight: bold;
+}
